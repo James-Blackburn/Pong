@@ -1,5 +1,4 @@
 #include "game.h"
-#include <iostream>
 
 void Game::initialize()
 {

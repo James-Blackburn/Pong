@@ -1,6 +1,6 @@
 #ifndef UTILITIES_INCLUDED
 #define UTILITIES_INCLUDED
-#include "SDL.h"
+#include "SDL/SDL.h"
 
 inline SDL_Surface* loadImage(const char* path)
 {

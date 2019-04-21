@@ -1,7 +1,7 @@
 #ifndef GAME_H_INCLUDED
 #define GAME_H_INCLUDED
 
-#include "SDL.h"
+#include "SDL/SDL.h"
 #include <vector>
 
 #include "game_state.h"

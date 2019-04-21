@@ -3,7 +3,7 @@
 
 class Game;
 
-#include "SDL.h"
+#include "SDL/SDL.h"
 #include "utilities.h"
 
 

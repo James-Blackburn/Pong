@@ -1,9 +1,9 @@
 #include <ctime>
 #include <random>
 
-#include "SDL.h"
-#include "SDL_ttf.h"
-#include "SDL_mixer.h"
+#include "SDL/SDL.h"
+#include "SDL/SDL_ttf.h"
+#include "SDL/SDL_mixer.h"
 #include "game.h"
 
 Game game;
